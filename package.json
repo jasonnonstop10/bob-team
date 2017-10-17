@@ -1,0 +1,18 @@
+{
+  "name": "bob-team",
+  "version": "1.0.0",
+  "description": "sit craft camp bob's team project",
+  "main": "index.js",
+  "repository": "https://github.com/sit-craft-camp/bob-team.git",
+  "author": "kittipong srikittichai <kittipong.sri@mail.kmutt>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^4.1.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+	"scripts": {
+		"dev": "next"
+	}
+}
